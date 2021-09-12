@@ -1,3 +1,75 @@
+![GitHub Last Commit](https://img.shields.io/github/last-commit/samrogers15/duplicate-reconciliation-program?style=plastic)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/samrogers15/duplicate-reconciliation-program?style=plastic)
+![GitHub Followers](https://img.shields.io/github/followers/samrogers15?style=social)
+![GitHub](https://img.shields.io/github/languages/top/samrogers15/duplicate-reconciliation-program?style=plastic)
+
+
+# Sam Rogers Dev Portfolio
+> TBD
+
+## Table of contents
+* [General Info](#general-info)
+* [Technologies](#technologies)
+* [Live Link](#Live-Link)
+* [Screen Shot](#Screen-Shot)
+* [Code Snippets](#code-snippets)
+* [Sources](#sources)
+* [Contact](#contact)
+
+## General Info
+The portfolio was built with React and styled utilizing Bootstrap. Also included are a few NPM packages that helped enhance the overall style of the portfolio, including React Parallax Tilt, React Typewriter Effect, and Devicons.
+
+## Technologies
+* Javascript
+* HTML/CSS
+* Node
+* React
+* Bootstrap
+* React Router DOM
+
+## Live Link
+[Sam Rogers Portfolio](https://www.samrogersdev.com)
+
+## Screen Shot
+![Sam Rogers Portfolio Screen Shot](./src/Assets/profileScreenshot.png)
+
+## Code Snippets
+
+TBD snippet:
+```js
+
+```
+
+TBD snippet:
+```js
+
+```
+
+## Sources
+Application enabled using the following sources:
+
+* [React](https://reactjs.org/)
+* [React Router DOM](https://www.npmjs.com/package/react-router-dom)
+* [NPM React Parallax Tilt](https://www.npmjs.com/package/react-parallax-tilt)
+* [NPM Typewriter Effect](https://www.npmjs.com/package/typewriter-effect)
+* [Devicon](https://devicon.dev/)
+
+## Contact
+Created by Sam Rogers - feel free to contact me to collaborate on a project!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelerogers/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samrogers15)
+
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samrogers15@gmail.com)
+
+[Sam Rogers Dev](www.samrogersdev.com)
+
+---
+
+
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
