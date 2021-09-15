@@ -5,7 +5,7 @@
 
 
 # Sam Rogers Dev Portfolio
-> TBD
+> This is a repository for a portfolio for Sam Rogers Developer built with Next.js and Tailwind CSS.
 
 ## Table of contents
 * [General Info](#general-info)
@@ -17,15 +17,18 @@
 * [Contact](#contact)
 
 ## General Info
-The portfolio was built with React and styled utilizing Bootstrap. Also included are a few NPM packages that helped enhance the overall style of the portfolio, including React Parallax Tilt, React Typewriter Effect, and Devicons.
+TBD
 
 ## Technologies
 * Javascript
 * HTML/CSS
-* Node
-* React
-* Bootstrap
-* React Router DOM
+* Node.js
+* React.js
+* Next.js
+* Tailwind CSS
+* NPM Headless UI
+* NPM Heroicons
+* React DOM
 
 ## Live Link
 [Sam Rogers Portfolio](https://www.samrogersdev.com)
